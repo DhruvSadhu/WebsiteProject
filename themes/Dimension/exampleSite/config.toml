@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dhruv Sadhu"
+theme = "dimension"
+publishDir = "DhruvSadhu.github.io"
