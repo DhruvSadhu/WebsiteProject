@@ -1,6 +1,6 @@
 ---
 title: DHRUV SADHU
-description: A  human
+description: A human being
 background: ""
-icon: "wedge"
+icon: static\images\WebsiteAvi.jpg 
 ---

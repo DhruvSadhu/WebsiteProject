@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Dhruv Sadhu"
+title = "My New Hugo Site"
 theme = "dimension"
 publishDir = "DhruvSadhu.github.io"
