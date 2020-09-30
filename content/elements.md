@@ -6,7 +6,7 @@ title:  Experience
 
 
 
-**Student Senator, Chairman of Student Affairs**                         ![test](/images/sgatrans.png)
+**Student Senator, Chairman of Student Affairs**                         ![test](/images/sgaTrans.png)
 
 
 As a senator, I've had the priveledge of striving to
@@ -40,7 +40,7 @@ Responsibilities Include...
 ___________________________________________________________________________________________________________________________________________
 
 ### UNC Charlotte - Delta Sigma Iota Fraternity Inc.
-**Founding Father, Vice President**
+**Founding Father, Vice President**                      ![test](/images/dsiLogo.png)
 
 *Founded November 24th, 2019*
 
