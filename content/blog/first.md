@@ -12,7 +12,7 @@ Responsible for hiring, training, and managing consultants that serve as pollste
 **Mathematics Instructor** *(March 2020 - Present)*                          
 **Office Administrator** *(June 2017 - June 2018)*                  
 As Mathematics Instructor: Responsible for teaching students grades K-12 in math, and providing progress reports to parents.          
-As Office Administrator: Responsible for collecting client payments, scheduling clients, tracking client attendance, maintaining inventory, running front desk, and teaching english classes.         
+As Office Administrator: Responsible for collecting client payments, scheduling clients, tracking client attendance, maintaining inventory, running front desk, and teaching english.         
 
 
 ### Private Tutor
