@@ -6,7 +6,8 @@ title:  Experience
 
 
 
-**Student Senator, Chairman of Student Affairs**                         ![test](/images/sgaTrans.png)
+**Student Senator, Chairman of Student Affairs**                         
+ ![test](/images/sgatrans.png)  
 
 
 As a senator, I've had the priveledge of striving to
