@@ -41,8 +41,8 @@ Responsibilities Include...
 ___________________________________________________________________________________________________________________________________________
 
 ### UNC Charlotte - Delta Sigma Iota Fraternity Inc.
-**Founding Father, Vice President**                      
-![test](/images/dsiLogo.png)
+**Founding Father, Vice President**                            
+![test](/images/dsiLogo.png)    
 
 *Founded November 24th, 2019*
 
