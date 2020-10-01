@@ -9,7 +9,7 @@ icon: "flag"
 - Pursuing a Bachelor of Arts in Political Science
 
 ### Extracurricular                              
-*I prioritize learning. Here's are some of the courses I've completed recently:*            
+*I prioritize learning. Here are some of the courses I've completed recently:*            
 - [Learn How to Learn](https://openclassrooms.com/en/courses/5281811-learn-how-to-learn)            
 - [Understanding the Basics of Code](https://learndigital.withgoogle.com/digitalgarage/course/basics-code)                 
 - [Understanding the Web](https://openclassrooms.com/en/courses/3314571-understanding-the-web)                   

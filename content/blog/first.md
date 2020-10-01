@@ -5,7 +5,7 @@ draft: true
 ---
 
 ### UWharrie Consulting  
-UWharrie Consulting is a consulting company that provides data and services to political campaigns. 
+UWharrie Consulting is a consulting company that provides data and services to political campaigns.          
 **Consultant Director** *(January 2020 - Present)*      
 Responsible for hiring, training, and managing consultants that serve as pollsters for political campaigns hired by the firm. Also responsible for speaking directly with voters (phonebanking, canvasing, etc).
 
