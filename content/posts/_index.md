@@ -48,7 +48,7 @@ Future of Humanity | Michio Kaku
 Zero to One | Peter Thiel
 Steve Jobs | Walter Issaacson 
 The Intelligent Investor | Benjamin Graham
-Starting out with Python, 4th Edition (Textbook) | Tony Gladdis
+Starting out with Python, 4th Edition (Textbook) | Tony Gladdis   
 
 
 

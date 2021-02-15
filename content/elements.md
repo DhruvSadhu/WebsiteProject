@@ -34,8 +34,8 @@ Responsibilities Include...
 | Bill  | Summary |
 | ----- | -------- |
 | [Government Bill 57.1-2](https://docs.google.com/document/d/1hhpso-2XlKljalDIKOkyt2fztlBqkozXxSrjLi2zcDg/edit/)    | Bill approving a constitutional amendment bringing power of the purse back to the legislative branch.     |
-| [Senate Resolution 56.2-26](https://docs.google.com/document/d/159Uvog9l1xu3tJ_NnEwVi-e5p8YmEoUev-lU-u7Nx-w/edit/)     | COVID-19 response bill, supporting pass-fail options and deregulated course withdrawals.|
-| [Senate Resolution 56.2-10](https://docs.google.com/document/d/15dwBCehXHz-3A1cd4YL_qJwxQh5Ykv0d65KNuggAM0I/edit)  | Bill to create a centralized complaint system for filings under University Policy 411|
+| [Senate Resolution 56.2-26](https://docs.google.com/document/d/159Uvog9l1xu3tJ_NnEwVi-e5p8YmEoUev-lU-u7Nx-w/edit/)     | COVID-19 response bill, supporting pass-fail options and deregulated course withdrawals. |
+| [Senate Resolution 56.2-10](https://docs.google.com/document/d/15dwBCehXHz-3A1cd4YL_qJwxQh5Ykv0d65KNuggAM0I/edit)  | Bill to create a centralized complaint system for filings under University Policy 411 |
 
 
 ___________________________________________________________________________________________________________________________________________
