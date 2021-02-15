@@ -21,8 +21,6 @@ As Office Administrator: Responsible for collecting client payments, scheduling 
 
 
 ### Private Tutor
-*January 2019 - Present*           
-Responsible for teaching high school math to clients.
 
 ### The Crab Cracker
 **Waiter** *(September 2019 - January 2020)*       

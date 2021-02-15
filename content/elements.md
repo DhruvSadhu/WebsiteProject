@@ -48,14 +48,14 @@ ________________________________________________________________________________
 
 
 
-In the fall of 2019, I was given the opportunity to co-found a chapter of Delta Sigma Iota on UNC Charlotte's campus. I never envisioned a fraternity in my future, but I'm glad I said yes. Prior to founding the fraternity, I, along with five others I now call brothers, completed a rigorous pledge process. In doing so, we forged friendships that I hope will stand the test of time. 
+In the fall of 2019, I was given the opportunity to co-found a chapter of Delta Sigma Iota on UNC Charlotte's campus. I never envisioned being part of a fraternity, but I'm glad I said yes. Prior to founding the fraternity, I, along with five others I now call brothers, completed a rigorous pledge process. In doing so, we forged bonds that I hope will stand the test of time. 
 
-Founding, maintaining, and growing an organization like this comes with a plethora of responsibility. Given the expansive nature of our work and our dimunitive manpower, our titles have not come with the division of labor that bureaucracy ordinarily implies. While some work attributed to my name may have been unique, a majority of these duties have been shared among the six founders.
+Founding, maintaining, and growing an organization like this comes with a plethora of responsibility. Given the expansive nature of our work and our dimunitive manpower, our titles have not come with the division of labor that bureaucracy ordinarily implies. While some work attributed to my name has been unique, a majority of these duties have been shared among the six founders.
 
 Responsibilities Include...
-- Creation of an Internal Executive Structure
-- Creation and Ratification of Governing Bylaws
-- Leading Weekly Chapter Meetings
+- Overseeing Internal Affairs
+- Overseeing External Affairs (ie, workshops, philanthropic initatives, joint events, etc.)
+- Greek Council Representation
 - Social Media Oversight
 - Recruitment 
 - New Member Education
@@ -65,6 +65,5 @@ Responsibilities Include...
 
 | Initative  | Summary |
 | ----- | -------- |
+| Constitution | Wrote the bylaws for the Chapter, laying out a framework of governance that touches on power structure, honorary members, voting procedures, etc.|
 | CodeCamp   | Helped design and organize a multi-chapter coding camp during the summer for members looking to learn how to make websites like the one you're on now.|
-| TBA | TBA|
-| TBA | TBA |
