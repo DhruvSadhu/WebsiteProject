@@ -13,7 +13,7 @@ icon: "flag"
 
 
 # Extracurricular                              
-*I prioritize learning. Here's a peek into the contents of my mind. This website isn't public, if you're here, it's because I'm trying to prove my worth to you, I hope you don't find this bragadocious. I mean no disrespect to the art of learning.*
+*This website is not public. If you're here, I'm trying to prove my worth to you. Hopefully a glimpse at the contents of my mind will do the trick.*
 
 ### Online Courses
  
