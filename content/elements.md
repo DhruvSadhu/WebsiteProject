@@ -67,7 +67,7 @@ Founding, maintaining, and growing an organization like this comes with a pletho
 
 Responsibilities Include...
 - Overseeing Internal Affairs
-- Overseeing External Affairs (ie, workshops, philanthropic initatives, joint events, etc.)
+- Overseeing External Affairs (ie, workshops, philanthropic initatives, joint events)
 - Greek Council Representation
 - Social Media Oversight
 - Recruitment 
