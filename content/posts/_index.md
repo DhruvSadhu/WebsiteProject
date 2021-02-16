@@ -5,7 +5,7 @@ icon: "flag"
 ---
 
 # Institutional
-**North Carolina State University** (January 2021 - Present) 
+**North Carolina State University**  (January 2021 - Present) 
 
 - Pursuing a bachelor of science in computer science, with a minor in genetics and supplementary exposure on nanotechnology. 
 

@@ -25,7 +25,7 @@ As Office Administrator: Responsible for managing client payments, scheduling cl
 
 ### The Crab Cracker  
 **Waiter** *(September 2019 - January 2020)*       
-Seasonal job during fall semester.
+Seasonal job during Fall 2019.
 
 
 
