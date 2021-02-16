@@ -1,5 +1,5 @@
 ---
-title: "                              Education"
+title: "Education"
 description: "A collection of posts"
 icon: "flag"
 ---
@@ -11,6 +11,7 @@ icon: "flag"
 
 **University of North Carolina at Charlotte** (August 2019- December 2020)
 
+_________________________________________________________________
 
 # Extracurricular                              
 *This website is not public. If you're here, I'm trying to prove my worth to you. Hopefully a glimpse at the contents of my mind will do the trick.*
@@ -48,7 +49,7 @@ Future of Humanity | Michio Kaku
 Zero to One | Peter Thiel
 Steve Jobs | Walter Issaacson 
 The Intelligent Investor | Benjamin Graham
-Starting out with Python, 4th Edition (Textbook) | Tony Gladdis   
+Starting out with Python, 4th Edition (Textbook) |  Tony Gladdis   
 
 
 

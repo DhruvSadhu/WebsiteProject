@@ -2,6 +2,19 @@
 title:  Experience
 ---
 
+### Robinhood 
+
+**Investor**                         
+![testing](/images/robinhood.png)
+
+‘RobinHood' is an investment app that allows users to participate in the stock market for free. Many older and more experienced possess an implicit bias against people who use RobinHood. I use their service because I like the user interface, that’s all! RobinHood is simply a medium for me to execute investment decisions. I do not allow myself to be lured in by marketing gimmicks. If the investment platform somebody is using is influencing their investment decisions, that person is not probably investing intelligently. Perhaps they’re not investing at all, they may just be speculators. I am an investor, not a trader, nor a speculator. So, the medium I use to make my investments makes little difference. With that being said, there are two aspects of RobinHood I want to touch upon.
+
+First, their referral program. RobinHood offers you one free stock for every user that you refer to the app. Over the last 14 months, I’ve referred somewhere between *70-80* individuals to join the app. The money I’ve earned from that incentive program has not been particularly significant, the point is that I am driven, I produce results, and I might even be a decent salesman. If nothing else, this has been great practice for developing interpersonal skills.
+
+Secondly, the investment segment. I turned 18 in May 2019, so I’ve been on the RobinHood platform for a little under 2 years. As you’ll see, I’ve had several streams of income in the last two years, so I’ve been able to amass a decent amount of capital for deployment. In the last year, I've taken a principal sum of ~$12,500 and turned it into ~$106,000 thus far. Here’s some evidence documenting that claim: https://prnt.sc/znup60. Now, there are some things I need to mention after sharing this performance metric with you. First of all, the $12,500 that I had saved up was money that I earned, through cutting costs and increasing revenue. At least 90% of that was money I made somehow. I don’t mean to stroke my own ego, I know I've been very lucky, I just wish to dispel any suspicion of undue privilege. Secondly, I do pay my fair share of taxes. Thirdly, I did not turn such a ridiculous profit by jumping on any bandwagon of any kind. I did my own due diligence and put 90% of my money into two different innovative technology companies that most people had not heard of at the time. I do not let the prospect of 'beating the market' corrupt my decision-making process, and I readily acknowledge that this rate of return will not be consistently replicable.
+
+_________________________________________________________________
+
 ### UNC Charlotte -- Student Government Association 
 
 
@@ -65,5 +78,5 @@ Responsibilities Include...
 
 | Initative  | Summary |
 | ----- | -------- |
-| Constitution | Wrote the bylaws for the Chapter, laying out a framework of governance that touches on power structure, honorary members, voting procedures, etc.|
-| CodeCamp   | Helped design and organize a multi-chapter coding camp during the summer for members looking to learn how to make websites like the one you're on now.|
+| Constitution | Wrote the bylaws for the Chapter, laying out a framework of governance that touches on power structure, honorary members, voting procedures, etc. |
+| CodeCamp   | Helped create and lead a multi-chapter coding camp during the summer for members looking to learn how to make websites like the one you're on now .|
