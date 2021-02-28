@@ -1,5 +1,5 @@
 ---
-title: "Why Me?"
+title: Why me?
 description: "A collection of posts"
 icon: "flag"
 draft: false 
