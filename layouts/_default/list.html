@@ -22,10 +22,10 @@
                     </div>
                     <nav>
                         <ul>
-                            <!-- 'WHYME' page MANUAL OVERRIDE HERE @DHRUV ...automatically updating code is commented out below!-->
-                            {{ range .Pages.ByDate }}
-                                {{if .Title }}
-                                    {{if .Content}}
+                           
+                            {{ range .Pages.ByTitle }}
+                                {{if ne .Title "Why Me?" }}  <!-- 'WHYME' page MANUAL OVERRIDE HERE @DHRUV -->
+                                    {{if .Content }}
                                         <li>
                                             <a href="#{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">{{ .Title }}</a>
                                         </li>

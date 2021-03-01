@@ -24,7 +24,7 @@
                     <nav>
                         <ul>
                             {{ range .Pages.ByDate }}
-                                {{if .Title }}
+                                {{if .Title}}
                                     {{if .Content}}
                                         <li>
                                             <a href="#{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">{{ .Title }}</a>

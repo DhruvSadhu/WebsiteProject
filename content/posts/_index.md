@@ -14,7 +14,7 @@ icon: "flag"
 _________________________________________________________________
 
 ## Extracurricular                              
-*This website is not public. If you're here, I'm trying to prove my worth to you. Hopefully a glimpse at the contents of my mind will do the trick.*
+*Some courses I've completed recently.*
 
 ### Online Courses
  
