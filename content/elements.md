@@ -13,11 +13,11 @@ title:  Experience
 
 
 
-‘RobinHood' is an investment app that allows users to participate in the stock market without paying direct comissiosn on their orders. Many older and more experienced people seem possess an implicit distaste against Robinhood. I can't speak to the company's moral or ethical strength, but I do like their product. I use their service their user interface is (in my opinion) the best, that’s all. For me, RobinHood is simply a medium to execute investment decisions. In my view, a person is probably not investing intelligently if their investment platform is significantly influencing their analysis. I am an investor, not a trader, nor a speculator. The medium I use to make my investments makes little difference. With that being said, there are two aspects of my experience with RobinHood that you may find interesting.
+‘RobinHood' is an investment app that allows users to participate in the stock market without paying direct comissiosn on their orders. For me, RobinHood is simply a medium to execute investment decisions. In my view, a person is probably not investing intelligently if their investment platform is significantly influencing their analysis. I am an investor, not a trader, nor a speculator. So, the medium I use to make my investments makes little difference. With that being said, there are two aspects of my experience with RobinHood that I'd liek to draw your attention to.
 
 The first concerns their referral program. RobinHood offers users one free stock for every other unique user they refer to the company's app. Over the last 14 months, I’ve referred somewhere between 70-80 individuals to join the app. Hopefully that goes to show you I can be quite driven.
 
-Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years.In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. Admittedly, rate of return is completely unsustainable, but I believe I might have a knack for finding value.
+Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years.In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. Admittedly, rate of return is completely unsustainable, but I believe I might have a knack for understanding value.
 
 _________________________________________________________________
 
