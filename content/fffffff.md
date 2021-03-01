@@ -13,7 +13,7 @@ Your investment in my company will enable me to cut costs and reinvest resources
 
 I wish to push humanity forward, but I cannot do it alone. I need help, and at this moment, I need _you_. The opportunity here is extraordinary, but not because of the mathematics behind it. Yes, the numbers will be exemplary, but the real beauty runs deeper. This opportunity is exceptional because you will never forget it. No matter how many applications have come before, you will remember reading this one, you will remember saying yes, and you will look back on that decision as the best you have ever made in your capacity as a scholarship officer. Why? Because I seek a great perhaps. As Friedrich Nietzsche said: I seek to conquer a land which no one has yet possessed, and hardly anyone has ever seen. I am going to make a dent in the universe, and if you bet on me, one day you are going to look back and bask in the glory of the fact that you made it happen.
 
-Your consideration is sincerely appreciated.
+Your consideration is greatly appreciated.
 
 With gratitude,
 
