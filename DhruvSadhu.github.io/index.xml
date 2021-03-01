@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DHRUV SADHU on Dhruv Sadhu</title>
+    <link>https://dhruvsadhu.github.io/</link>
+    <description>Recent content in DHRUV SADHU on Dhruv Sadhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://dhruvsadhu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Employment</title>
+      <link>https://dhruvsadhu.github.io/employment/</link>
+      <pubDate>Sun, 23 Aug 2020 20:54:18 -0400</pubDate>
+      
+      <guid>https://dhruvsadhu.github.io/employment/</guid>
+      <description>UWharrie Consulting UWharrie Consulting is a consulting company that provides data and services to political campaigns.
+Consultant Director (November 2019 - November 2020) Responsible for hiring, training, and managing consultants that serve as pollsters for political campaigns hired by the firm. Also responsible for participating in standard consultant work, like phonebanking and canvassing.
+Eye Level of High Point &amp;ldquo;Eye Level&amp;rdquo; is an education company, similar to &amp;ldquo;Sylvan&amp;rdquo; or &amp;ldquo;Mathnasium&amp;rdquo; or &amp;ldquo;Kumon&amp;rdquo;, that specializes in supplementary learning programs in math and English.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://dhruvsadhu.github.io/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvsadhu.github.io/elements/</guid>
+      <description>Robinhood Investor ‘RobinHood&amp;rsquo; is an investment app that allows users to participate in the stock market without paying direct comissiosn on their orders. Many older and more experienced people seem possess an implicit distaste against Robinhood. I can&amp;rsquo;t speak to the company&amp;rsquo;s moral or ethical strength, but I do like their product. I use their service their user interface is (in my opinion) the best, that’s all. For me, RobinHood is simply a medium to execute investment decisions.</description>
+    </item>
+    
+  </channel>
+</rss>
