@@ -11,7 +11,7 @@ title:  Experience
 
 The first concerns their referral program. RobinHood offers users one free stock for every other unique user they refer to the company's app. Over the last 14 months, I’ve referred somewhere between *70-80* individuals to join the app. The money I’ve earned from that incentive program has not been particularly significant, the point here is that I am driven and result-oriented. 
 
-Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years. Over time I've been able to amass a little bit of capital for deployment. In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. For the record, I didn't follow any social media folly nor make any blind decisions, I'm an investor, not a speculator. That being said, I'll happily admit that these results are about 90% luck and 10% skill. This rate of return is totally unsustainable, but I do think I might have a knack for finding value. 
+Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years. Over time I've been able to amass a little bit of capital for deployment. In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. For the record, I didn't follow any social media folly nor make any blind decisions, I'm an investor, not a speculator. That being said, I'll happily admit that these results are about 90% luck and 10% skill. This rate of return is totally unsustainable, but I do think I might have a knack for finding value.
 
 _________________________________________________________________
 
