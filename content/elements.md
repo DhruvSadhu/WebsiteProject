@@ -4,23 +4,30 @@ title:  Experience
 
 ### Robinhood 
 
-**Investor**                         
+
 ![testing](/images/robinhood.png)
+
+
+**Investor**                         
+
+
+
 
 ‘RobinHood' is an investment app that allows users to participate in the stock market without paying direct comissiosn on their orders. Many older and more experienced people seem possess an implicit distaste against Robinhood. I can't speak to the company's moral or ethical strength, but I do like their product. I use their service their user interface is (in my opinion) the best, that’s all. For me, RobinHood is simply a medium to execute investment decisions. In my view, a person is probably not investing intelligently if their investment platform is significantly influencing their analysis. I am an investor, not a trader, nor a speculator. The medium I use to make my investments makes little difference. With that being said, there are two aspects of my experience with RobinHood that you may find interesting.
 
 The first concerns their referral program. RobinHood offers users one free stock for every other unique user they refer to the company's app. Over the last 14 months, I’ve referred somewhere between *70-80* individuals to join the app. The money I’ve earned from that incentive program has not been particularly significant, the point here is that I am driven and result-oriented. 
 
-Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years. Over time I've been able to amass a little bit of capital for deployment. In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. For the record, I didn't follow any social media folly nor make any blind decisions, I'm an investor, not a speculator. That being said, I'll happily admit that these results are about 90% luck and 10% skill. This rate of return is totally unsustainable, but I do think I might have a knack for finding value.
+Secondly, I'd like to provide some insight into my investment record. I turned 18 in May 2019, so I’ve been an eligible investor for a little under two years. Over time I've been able to amass a little bit of capital for deployment. In the last year, I've taken a principal amount of ~$12,500 and turned it into ~$106,000 thus far. This rate of return is totally unsustainable, but I believe I might have a knack for finding value.
 
 _________________________________________________________________
 
 ### UNC Charlotte -- Student Government Association 
 
 
+![test](/images/sgatrans.png)  
 
 **Student Senator, Chairman of Student Affairs**                         
- ![test](/images/sgatrans.png)  
+
 
 
 As a senator, I was able to better my self as a leader by working with students, professors, and administrators to execute initatives designed to improve the student experience. This position has offered delightful insight into the nature of bureaucracy, the dilemmas of business administration, and the spirit of advocacy. Being elected to these positions has been an honor.
