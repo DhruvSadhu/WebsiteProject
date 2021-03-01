@@ -4,7 +4,7 @@ description: "A collection of posts"
 icon: "flag"
 ---
 
-# Institutional
+## Institutional
 **North Carolina State University**  (January 2021 - Present) 
 
 - Pursuing a bachelor of science in computer science, with a minor in genetics and supplementary exposure on nanotechnology. 
@@ -13,7 +13,7 @@ icon: "flag"
 
 _________________________________________________________________
 
-# Extracurricular                              
+## Extracurricular                              
 *This website is not public. If you're here, I'm trying to prove my worth to you. Hopefully a glimpse at the contents of my mind will do the trick.*
 
 ### Online Courses
@@ -47,6 +47,7 @@ The Magic of Reality | Richard Dawkins
 Future of the Mind | Michio Kaku
 Future of Humanity | Michio Kaku
 Zero to One | Peter Thiel
+Bill Gates | Influential Individuals
 Steve Jobs | Walter Issaacson 
 The Intelligent Investor | Benjamin Graham
 Starting out with Python, 4th Edition (Textbook) |  Tony Gladdis   

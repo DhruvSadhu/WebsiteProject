@@ -1,5 +1,5 @@
 ---
-title: DHRUV SADHU ...TESTING THINGS!
+title: DHRUV SADHU
 description: A human, being
 background: ""
 icon: "/images/pfp.jpg"

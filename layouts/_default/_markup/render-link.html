@@ -1,0 +1,2 @@
+<!-- THIS CODE MAKES SHIT OPEN IN A NEW TAB @DHRUV EDIT -->
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
